@@ -21,7 +21,7 @@ if(empty($_SESSION['member_id'])){
 <p> Click a link above to do some stuff.</p>
 </div>
 <div id="footer">
-<div class="bottom_addr">&copy; 2012 Simple PHP Polling System. All Rights Reserved</div>
+<div class="bottom_addr">&copy; 2017 Simple PHP Polling System. All Rights Reserved</div>
 </div>
 </div>
 </body></html>
