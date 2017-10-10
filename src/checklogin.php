@@ -57,7 +57,7 @@ ob_end_flush();
 ?> 
 </div>
 <div id="footer"> 
-  <div class="bottom_addr">&copy; 2012 Simple PHP Polling System. All Rights Reserved</div>
+  <div class="bottom_addr">&copy; 2017 Simple PHP Polling System. All Rights Reserved</div>
 </div>
 </div>
 </body>
