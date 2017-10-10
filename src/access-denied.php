@@ -19,7 +19,7 @@
   <p>You don't have access to this resource. <a href="login.html">Click here</a> to login first.</p>
 </div>
 <div id="footer"> 
-  <div class="bottom_addr">&copy; 2012 Simple PHP Polling System. All Rights Reserved</div>
+  <div class="bottom_addr">&copy; 2017 Simple PHP Polling System. All Rights Reserved</div>
 </div>
 </div>
 </body>
