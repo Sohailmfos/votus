@@ -16,7 +16,7 @@ session_destroy();
 You have been successfully logged out.<br><br><br>
 Return to <a href="index.php">Login</a>
 <div id="footer">
-<div class="bottom_addr">&copy; 2012 Simple PHP Polling System. All Rights Reserved</div>
+<div class="bottom_addr">&copy; 2017 Simple PHP Polling System. All Rights Reserved</div>
 </div>
 </div>
 </body></html>
